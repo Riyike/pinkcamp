@@ -1,0 +1,24 @@
+html
+{
+	padding:10px;
+	margin:10px;
+	background-color:white;
+	color:black;
+	text-align:center;
+}
+
+#header
+{
+	background-color:pink;
+	text-align:center;
+}
+
+#nicknames
+{
+	border:1px solid #ccc;
+	background-color:#EFEFEF;
+	color:#444;
+	padding:5px;
+	border-radius:4px;	
+	text-decoration:none:
+}
